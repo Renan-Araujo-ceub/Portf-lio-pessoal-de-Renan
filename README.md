@@ -11,7 +11,7 @@ Sou estudante de tecnologia no CEUB e desenvolvedor em formação. Tenho interes
 
 ### **Projetos em destaque:**
 
-- [Portfólio Pessoal](https://github.com/Renan-Araujo-ceub/Portf-lio-pessoal-de-Renan)  
+- [Portfólio Pessoal](https://sites.google.com/view/portiflilohub/in%C3%ADcio)
   Meu site pessoal com meus projetos, habilidades e informações sobre mim.
 
 ### **GitHub Stats**
