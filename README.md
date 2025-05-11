@@ -1,33 +1,29 @@
-# Portfólio Pessoal - Renan
+## Olá! Eu sou o Renan Felix
 
-Este repositório contém meu portfólio de projetos desenvolvidos durante minha jornada acadêmica e profissional na área de tecnologia. Aqui você encontrará aplicações web, scripts úteis, soluções de desafios e projetos colaborativos.
+Sou estudante de tecnologia no CEUB e desenvolvedor em formação. Tenho interesse em desenvolvimento web, com foco em criar interfaces funcionais, limpas e que transmitam minha identidade. Estou sempre em busca de aprender mais e colocar meus conhecimentos em prática por meio de projetos.
 
-## 🗂 Estrutura
+### **Tecnologias que estou aprendendo:**
 
-- `/projetos`: Contém pastas com os diferentes projetos organizados
-- `README.md`: Este arquivo de apresentação
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
-## 🚀 Tecnologias Utilizadas
+### **Projetos em destaque:**
 
-- HTML5, CSS3, JavaScript
-- Git e GitHub
-- Ferramentas de versionamento e colaboração
+- [Portfólio Pessoal](https://github.com/Renan-Araujo-ceub/Portf-lio-pessoal-de-Renan)  
+  Meu site pessoal com meus projetos, habilidades e informações sobre mim.
 
-## 🧠 Objetivos
+### **GitHub Stats**
 
-- Demonstrar meus conhecimentos técnicos
-- Organizar e versionar meus projetos de forma clara
-- Facilitar o compartilhamento com recrutadores e colegas de profissão
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Araujo-ceub&show_icons=true&theme=tokyonight)
 
-## 📎 Acesso ao Portfólio
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Araujo-ceub&layout=compact&theme=tokyonight)
 
-🔗 [Acesse o repositório no GitHub](https://github.com/Renan-Araujo-ceub/portfolio-renan)
+---
 
-📄 [Veja no LinkedIn](https://linkedin.com/in/seu-perfil)
+### Conecte-se comigo:
 
-## 📬 Contato
+[LinkedIn](https://www.linkedin.com/in/renan-felix-8317972ab)  
+[renanfelixbandeiro@gmail.com](mailto:renanfelixbandeiro@gmail.com)
 
-- renan@email.com  
-- [LinkedIn](https://linkedin.com/in/seu-perfil)  
-- [GitHub](https://github.com/seu-usuario)
-# Portf-lio-pessoal-de-Renan
